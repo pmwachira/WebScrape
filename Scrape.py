@@ -12,7 +12,7 @@ for index in range(0,6):
 #for index in range(0,1):
 
     ## loop for each page while changing number on url
-    url="https://www.zorgkaartnederland.nl/sectoren/kraamzorg-en-geboortezorg/zorgaanbieders/pagina"+str(index)
+    url="https://www.----------------------/pagina"+str(index)
 
 
     html = urlopen(url)
